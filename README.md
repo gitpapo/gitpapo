@@ -106,7 +106,8 @@ Tem alguma dúvida ou sugestão? Entre em contato!
 
   <br>
 
-  ![Visitor Count](https://profile-counter.glitch.me/gitpapo/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gitpapo&color=FF9933&style=flat-square&l
+  abel=Visualizações)
 
   **Feito com ❤️ para a comunidade de desenvolvedores**
 
