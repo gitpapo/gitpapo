@@ -106,8 +106,7 @@ Tem alguma dúvida ou sugestão? Entre em contato!
 
   <br>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=gitpapo&color=FF9933&style=flat-square&l
-  abel=Visualizações)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gitpapo&color=FF9933&style=flat-square&label=Visualizações)
 
   **Feito com ❤️ para a comunidade de desenvolvedores**
 
